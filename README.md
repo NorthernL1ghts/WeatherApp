@@ -11,4 +11,4 @@ const APIKey = 'Your Api Key';
 ```
 
 ## Screenshot:
-![screenshot](screenshot.jpg)
+![screenshot](WeatherApp/screenshot.jpg)
